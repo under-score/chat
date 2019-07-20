@@ -1,8 +1,8 @@
 # projector.chat
 
-your audience can chat live 
+let your audience chat live  
 works well with https://github.com/under-score/projector  
-does threading, uses initals, allow preview and pictures
+does threading, uses initals, allow preview and pictures  
 
 <img src="screen1.jpg" width="70%" height="70%">  
 
